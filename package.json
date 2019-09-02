@@ -1,0 +1,23 @@
+{
+  "name": "tnpowercut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nssuriya/tnpowercut.git"
+  },
+  "author": "suriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nssuriya/tnpowercut/issues"
+  },
+  "homepage": "https://github.com/nssuriya/tnpowercut#readme",
+  "dependencies": {
+    "html-table-to-json": "^0.4.1",
+    "request": "^2.88.0"
+  }
+}
